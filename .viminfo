@@ -15,9 +15,9 @@
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1605181080,,"q"
+|2,0,1605182317,,"q"
 :w
-|2,0,1605181067,,"w"
+|2,0,1605182311,,"w"
 :q\
 |2,0,1605179760,,"q\\"
 :e
@@ -42,26 +42,51 @@
 |3,0,26,0,1,0,1605179192,"w"
 
 # File marks:
-'0  2  15  ~/readme.md
-|4,48,2,15,1605181080,"~/readme.md"
-'1  2  10  ~/nick.md
-|4,49,2,10,1605179764,"~/nick.md"
+'0  2  1  ~/feature1.md
+|4,48,2,1,1605182317,"~/feature1.md"
+'1  2  15  ~/readme.md
+|4,49,2,15,1605181080,"~/readme.md"
+'2  2  10  ~/nick.md
+|4,50,2,10,1605179764,"~/nick.md"
 
 # Jumplist (newest first):
+-'  2  1  ~/feature1.md
+|4,39,2,1,1605182317,"~/feature1.md"
+-'  1  0  ~/feature1.md
+|4,39,1,0,1605182268,"~/feature1.md"
 -'  2  15  ~/readme.md
 |4,39,2,15,1605181080,"~/readme.md"
+-'  2  15  ~/readme.md
+|4,39,2,15,1605181080,"~/readme.md"
+-'  1  0  ~/readme.md
+|4,39,1,0,1605180974,"~/readme.md"
 -'  1  0  ~/readme.md
 |4,39,1,0,1605180974,"~/readme.md"
 -'  2  10  ~/nick.md
 |4,39,2,10,1605179764,"~/nick.md"
 -'  2  10  ~/nick.md
 |4,39,2,10,1605179764,"~/nick.md"
+-'  2  10  ~/nick.md
+|4,39,2,10,1605179764,"~/nick.md"
+-'  2  10  ~/nick.md
+|4,39,2,10,1605179764,"~/nick.md"
+-'  1  10  ~/nick.md
+|4,39,1,10,1605178694,"~/nick.md"
+-'  1  10  ~/nick.md
+|4,39,1,10,1605178694,"~/nick.md"
 -'  1  10  ~/nick.md
 |4,39,1,10,1605178694,"~/nick.md"
 -'  1  10  ~/nick.md
 |4,39,1,10,1605178694,"~/nick.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/feature1.md
+	*	1605182315	0
+	"	2	1
+	^	2	22
+	.	2	21
+	+	2	21
 
 > ~/readme.md
 	*	1605181077	0
